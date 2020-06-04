@@ -1,0 +1,3 @@
+plate
+tgcrypto
+https://github.com/pyrogram/pyrogram/archive/asyncio-dev.zip
